@@ -1,21 +1,5 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : PAP
-Source Server Version : 50163
-Source Host           : 5.185.100.60:3306
-Source Database       : hamachiteste
-
-Target Server Type    : MYSQL
-Target Server Version : 50163
-File Encoding         : 65001
-
-Date: 2012-10-10 10:55:52
-*/
-
-SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
--- Table structure for `sql`
+-- Tables de Registo
 -- ----------------------------
 DROP TABLE IF EXISTS `sql`;
 CREATE TABLE `sql` (
